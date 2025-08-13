@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="![ggg](https://github.com/user-attachments/assets/3e92ec0b-d49d-4ee2-b655-32c4aa05d7c2)"/>
+"
+</p>
 ## About Me:
 
 ✨ Hello, internet traveler
