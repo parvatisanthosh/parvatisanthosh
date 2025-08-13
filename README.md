@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[![ggg](https://github.com/user-attachments/assets/3e92ec0b-d49d-4ee2-b655-32c4aa05d7c2)](https://e0.pxfuel.com/wallpapers/523/786/desktop-wallpaper-anime-computer-hacker-girl-anime-programming.jpg)"/>
+  <img src="https://e0.pxfuel.com/wallpapers/523/786/desktop-wallpaper-anime-computer-hacker-girl-anime-programming.jpg"/>
 "
 </p>
 ## About Me:
