@@ -6,7 +6,7 @@
 I'm a web developer who turns ideas into fast, functional, and occasionally beautiful websites.  
 Frontend is my playground, backend is my toolbox.
 
-🧪 Favorite tools: React, Node, Tailwind, MongoDB  
+
 ⚙️ I like my code modular, my UI snappy, and my errors descriptive.  
 💬 PRs welcome. Sarcasm appreciated.
 
